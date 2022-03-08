@@ -2,8 +2,8 @@
 vm2 ansible_ssh_host=192.168.40.128
 
 [mustapha:vars]
-ansible_ssh_user=mustapha
-ansible_password=mustapha
+ansible_ssh_user={{ user }}
+ansible_password={{ password }}
 
 
 
