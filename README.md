@@ -25,6 +25,7 @@ ansible_password={{ password }}
 
 uptime.yaml:The second YAML script we have created is to get server uptime, and server date/time.
 
+```sh
 ---
 - name: Get server uptime
   hosts: all
@@ -41,5 +42,6 @@ uptime.yaml:The second YAML script we have created is to get server uptime, and 
      register: hello
    - debug: msg="{{ hello.stdout }}"
    - debug: msg="{{ hello.stderr }}"
+```
 
 shell command:ansible-playbook -l all -i hosts utime.yaml 
