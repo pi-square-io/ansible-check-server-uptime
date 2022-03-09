@@ -1,8 +1,9 @@
-uptime gives a one line display of the following information.
+## Ansible - Check Server Uptime
+- uptime gives a one line display of the following information.
 -The current time
 -how long the system has been running
 -how many users are currently logged on
-Explanation
+## Explanation
 1. — marks the start and end of a YAML script.
 2. – marks the member of the list.
 3. Key: Value represents a dictionary in YML which defines something.
@@ -23,7 +24,7 @@ ansible_ssh_user={{ user }}
 ansible_password={{ password }}
 ```
 
-uptime.yaml:The second YAML script we have created is to get server uptime, and server date/time.
+[uptime.yaml:] [df1] The second YAML script we have created is to get server uptime, and server date/time.
 
 ```sh
 ---
