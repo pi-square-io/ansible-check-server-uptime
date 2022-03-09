@@ -1,0 +1,25 @@
+chof ba9I 0.45 hawni katib historique region w prix w notiication  console 
+les services 
+IAM 0.45
+VPC 0.45
+services 0.45
+
+
+ba3D services ec2 2H s3 2H Cloudfront 2H
+Aurora 2H
+
+
+Ansible 3H
+exemple pratique pour S3 et EC2 IAM VPC itha lzim des codes ou des capture ecrant su ducument 5H
+w exemle illi b3thholi 3H
+25 H 
+pour le moment na3mil ba9i duc aws 1.5 
+w les sevices comme recherche simle nfhim bih simple m3a traduction  4H 
+w ba3d ansible 1.5
+ba3d ex illi b3thholi  
+kahaw 
+ba3d kan t7ib koll mara zid ducement
+w zid exemple pr	tique 
+
+15\02
+https://partners.amazonaws.com/search/partners/?loc=France&loctype=Headquarters&page=1

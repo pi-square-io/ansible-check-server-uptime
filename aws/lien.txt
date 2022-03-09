@@ -1,0 +1,32 @@
+https://www.youtube.com/watch?v=rc1H8wBuexs&list=PL3A0j6QPgLzeUXmw90Hykt7lr1ZgkUZQj&index=18
+
+https://www.youtube.com/watch?v=336_r0cW8AI&list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY&index=4
+
+
+
+https://www.youtube.com/watch?v=BusejTCQ2PY&list=PLCIJjtzQPZJ_JL1pTjLERHU7fMwUSbZ-y&index=20
+
+https://www.youtube.com/watch?v=YPN7nZeuzK0&list=PLL_L4MF1Z7JW_-LW4ikJsgF2EIfpOp-IU&index=1
+
+https://www.youtube.com/watch?v=Vv_ftSpIzPQ&list=PL3A0j6QPgLzeUXmw90Hykt7lr1ZgkUZQj&index=23
+
+
+https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+
+
+https://www.youtube.com/watch?v=kvP_7jT-ImY&list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB
+python .\scraping_projet.py  
+
+Types EC2 instance 
+ip reseaux 26 public  et 36 privéé laya barik
+fazit kifach not5ol w kifach no5roj lil instance 
+EC2
+https://www.udemy.com/course/amazon-aws-core-services-ec2-vpc-s3-iam-dynamodb-rds/learn/lecture/29700518#overview
+ 1) vedio 
+plus instance type detaille 
+plus Ec2 en génerale pour ducement fonc def ...
+vedio a5ir ba3tho 
+vedio a5ir ba5tho
+plus vedio min youtoup ntfage 
+na3mil conclusion w nla5is bach najim nfhim akthir ok ok
+

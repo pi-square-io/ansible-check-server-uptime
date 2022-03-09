@@ -1,0 +1,50 @@
+https://www.udemy.com/course/amazon-web-services-aws-ec2-an-introduction/learn/lecture/11453422?components=buy_button%2Ccacheable_buy_button%2Cpurchase%2Crecommendation#overview
+ntaba3 vedio hatha 
+ba3d nchof les vedios illi fi youtoup 
+ba3d na9ra illi katbo 
+ba3d resumer la5is 
+nzid nchof hatha  chnwa bthbt w n7othom ducement
+https://www.youtube.com/watch?v=LQANRLrdxvo
+w nzid vedio angalis 
+w nzid vedio fi Ademy bien bien 
+
+clé praimaire w prive public nfhmhom en génerale
+ hatha lien fiyah 3al cle pair EC2
+https://docs.aws.amazon.com/fr_fr/AWSEC2/latest/UserGuide/ec2-key-pairs.html
+ w ip et ipi4  zada 
+hatha yfasali vedio instance cle fama vedio fo9 fiyah zda
+w lazmni nfhim chnwa ssh
+https://www.youtube.com/watch?v=sJ3SJ-66-F8
+w lazmni nfhim IAM CPU 
+ba3d nawali nmchi nfhim ba9i services 
+
+nzid n5dim cryptage scv et for
+
+S3:
+ducement 
+s3 aws creation etape 
+s3 et IAM 
+S3 et Python chwya 
+chof hatha 
+https://www.udemy.com/course/using-aws-s3-with-python/learn/lecture/30459400#overview 
+
+https://www.udemy.com/course/amazon-aws-core-services-ec2-vpc-s3-iam-dynamodb-rds/
+https://www.udemy.com/course/aws-s3-storage-master-classes-for-beginners-to-become-expert/
+https://www.udemy.com/course/amazon-web-services-aws/
+https://www.udemy.com/course/aws-introduction-au-reseau-machines-virtuelles-cloud-n1/
+
+https://www.udemy.com/course/amazon-web-services-aws-v/
+
+
+hatha fi l5ir 
+https://www.youtube.com/watch?v=oHSKN8C38fM&list=PLBUycIxWFXd9BIOy2B1LgzVoz0EGFK8Qq&index=26
+nfhim sa3 notion de base mta3o ba3d nwali na3mil decumantation 
+ba3d nchof detaille 
+
+
+ba3d nmchi RDS 
+ba3d nmchi 
+lambda 
+w nzid nchof fi kol services ducement bien et resumer moch mlabza w 3ala ba3tho 7ajat illli t3wid na7aha 
+ok ok 
+

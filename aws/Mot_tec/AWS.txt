@@ -1,0 +1,26 @@
+aws 
+Infrastructure 
+region 
+ap-southeast-2a
+ap-southeast-2b
+ap-southeast-2c
+
+aws console 
+Global services :(IAM , s3 , ...)
+
+EC2 Elastic computer cloud 
+Storing data on virtual drives(EBS)
+Distributing load across machines (ELB)
+Scaling the services using an auto-scaling group (ASG)
+
+OS Operating System (linux,Windows)
+CPU
+RAM
+ECé instance 
+network = réseau
+
+MFA 
+devices  = dispositifs(options d'appareils)
+
+
+
