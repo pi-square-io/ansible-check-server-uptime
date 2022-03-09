@@ -12,7 +12,7 @@ uptime gives a one line display of the following information.
 6. “all” is a default identifier which contains all hosts defined in the hosts file.
 7. “tasks” defines the various tasks we want to perform in this YML script.
 
-[ hosts file: ] allows you to access any server you want.
+##### hosts file:  allows you to access any server you want.
 
 The first script we have created included the ping response of all hosts.
 
@@ -25,7 +25,7 @@ ansible_ssh_user={{ user }}
 ansible_password={{ password }}
 ```
 
-[ uptime.yaml: ] The second YAML script we have created is to get server uptime, and server date/time.
+#### uptime.yaml:  The second YAML script we have created is to get server uptime, and server date/time.
 
 ```sh
 ---
@@ -45,8 +45,8 @@ ansible_password={{ password }}
    - debug: msg="{{ hello.stdout }}"
    - debug: msg="{{ hello.stderr }}"
 ```
+###### shell command:
 ```sh
-shell command:
 ---
-shell command:ansible-playbook -l all -i hosts utime.yaml 
+ansible-playbook -l all -i hosts utime.yaml 
 ```
