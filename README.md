@@ -14,12 +14,14 @@ Explanation
 hosts file: allows you to access any server you want.
 The first script we have created included the ping response of all hosts.
 
+```sh
 [mustapha]
 vm2 ansible_ssh_host=192.168.40.128
 
 [mustapha:vars]
 ansible_ssh_user={{ user }}
 ansible_password={{ password }}
+```
 
 uptime.yaml:The second YAML script we have created is to get server uptime, and server date/time.
 
