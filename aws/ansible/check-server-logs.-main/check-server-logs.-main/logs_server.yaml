@@ -3,13 +3,13 @@
   hosts: all
 
   tasks:
-   - name: Get logs first5
+   - name: Get all logs
      shell: journalctl 
      register: hello
    - debug: msg="{{ hello.stdout }}"
    - debug: msg="{{ hello.stderr }}"
 
-   - name: Get logs first1
+   - name: Get logs by date
      shell: journalctl --since "2022-03-11 14:15:00" --until "2022-03-11 14:20:00"
      register: hello
    - debug: msg="{{ hello.stdout }}"
@@ -27,11 +27,17 @@
    - debug: msg="{{ hello.stdout }}"
    - debug: msg="{{ hello.stderr }}"
 
-   - name: Get logs first4
+   - name: Get logs boots_system
      shell: journalctl --list-boots
      register: hello
    - debug: msg="{{ hello.stdout }}"
    - debug: msg="{{ hello.stderr }}"
 
 
+   - name: Get date second
+     shell: date
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+   
    
