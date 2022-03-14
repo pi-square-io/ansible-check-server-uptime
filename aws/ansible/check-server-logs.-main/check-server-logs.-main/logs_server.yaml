@@ -1,0 +1,37 @@
+---
+- name: Get server logs
+  hosts: all
+
+  tasks:
+   - name: Get logs first5
+     shell: journalctl 
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+
+   - name: Get logs first1
+     shell: journalctl --since "2022-03-11 14:15:00" --until "2022-03-11 14:20:00"
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+   
+   - name: Get logs first2
+     shell: journalctl --since "1 hour ago"
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+
+   - name: Get logs first3
+     shell: journalctl --since "2 days ago"
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+
+   - name: Get logs first4
+     shell: journalctl --list-boots
+     register: hello
+   - debug: msg="{{ hello.stdout }}"
+   - debug: msg="{{ hello.stderr }}"
+
+
+   
